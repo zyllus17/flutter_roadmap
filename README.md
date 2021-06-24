@@ -5,11 +5,14 @@
 ![roadmap](images/FlutterRoadmap.png)
 
 #### Dev Environment
-* https://learngitbranching.js.org
+* Git - https://learngitbranching.js.org
 
 #### Language
-* https://dart.dev/guides/language/language-tour
-* https://dart.dev/guides/language/effective-dart
+* Dart - https://dart.dev/guides/language/language-tour
+* Dart - https://dart.dev/guides/language/effective-dart
+* OOP - https://levelup.gitconnected.com/fluttering-dart-oop-8b92cd89a7f0
+* Functions - https://levelup.gitconnected.com/fluttering-dart-b37110f4d1bf
+* Code Style - https://fuchsia.dev/fuchsia-src/development/languages/dart/style
 
 #### Basic Widgets
 * https://flutter.dev/docs/development/ui/widgets-intro
@@ -19,6 +22,15 @@
 
 #### Core Design Patterns
 * https://en.wikipedia.org/wiki/Design_Patterns
+* https://medium.com/flutter-community/flutter-design-patterns-0-introduction-5e88cfff6792
+* **Observer** - https://medium.com/flutter-community/flutter-design-patterns-23-observer-1e1b0ea81d73
+* **Command** - https://medium.com/flutter-community/flutter-design-patterns-12-command-e199172e16eb
+* **Factory** - https://medium.com/flutter-community/flutter-design-patterns-10-factory-method-c53ad11d863f
+* [ ] **Dependency Injection** -
+* **Builder** - https://medium.com/flutter-community/flutter-design-patterns-18-builder-cdc90b222724
+* **State** - https://medium.com/flutter-community/flutter-design-patterns-6-state-be06cb05525c
+* **Decorator** - https://medium.com/flutter-community/flutter-design-patterns-16-decorator-bf0dd711f093
+* **Composite** - https://mkobuolys.medium.com/flutter-design-patterns-4-composite-23473cccf2b3
 
 #### Core Design Principles
 * https://en.wikipedia.org/wiki/KISS_principle
